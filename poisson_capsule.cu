@@ -1,4 +1,4 @@
-// Programa para encapsular Poisson Solver
+// Program to encapsulate Poisson Solver
 
 #include <stdio.h>
 #include <string>
